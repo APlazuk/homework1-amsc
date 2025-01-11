@@ -1,0 +1,4 @@
+GET http://localhost:8080/actuator/env/spring.cloud.config.profile
+
+###
+POST http://localhost:8080/actuator/refresh
